@@ -1,4 +1,4 @@
-# Painting that created by Processing and sound!
+# Painting made with Processing and sound!
 
 
 <img width="1792" alt="Screen Shot 2022-08-29 at 9 41 12 PM" src="https://user-images.githubusercontent.com/33434285/187285169-183bfa80-d0ba-49f8-99ae-fe02cc4cd2e4.png">
